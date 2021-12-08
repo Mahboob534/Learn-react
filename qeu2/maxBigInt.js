@@ -1,3 +1,4 @@
+
 function max(bNumList) {
     if (arguments.length == 0) {
         return null
